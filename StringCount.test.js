@@ -7,9 +7,9 @@ const message = {
 }
 
 //Act
-const countSuccessFunc = characterCount('basir');
-const countFailFunc = () => characterCount('');
+const countSuccessFunction = characterCount('basir');
+const countFailFunction = () => characterCount('');
 
 //Assert
-test(message.success, () => { expect(countSuccessFunc).toBe(5); });
-test(message.error, () => { expect(countFailFunc).toThrow('Error') });
+test(message.success, () => { expect(countSuccessFunction).toBe(5); });
+test(message.error, () => { expect(countFailFunction).toThrow('Error') });
