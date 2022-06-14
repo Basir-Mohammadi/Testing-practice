@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1655238228973" clover="3.2.0">
-  <project timestamp="1655238228973" name="All files">
+<coverage generated="1655238423291" clover="3.2.0">
+  <project timestamp="1655238423291" name="All files">
     <metrics statements="16" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="6" elements="27" coveredelements="25" complexity="0" loc="16" ncloc="16" packages="1" files="4" classes="4"/>
     <file name="CapitalizeFirstLetter.js" path="C:\Users\Basir Ahmad\Testing-practice\CapitalizeFirstLetter.js">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>

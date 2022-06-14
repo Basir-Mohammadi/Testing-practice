@@ -1,4 +1,4 @@
-const calculator = require ("./calculator");
+const calculator = require ('./calculator');
 
 //Arrange
 const message = {
