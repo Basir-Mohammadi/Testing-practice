@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1655238014455" clover="3.2.0">
-  <project timestamp="1655238014456" name="All files">
-    <metrics statements="13" coveredstatements="12" conditionals="4" coveredconditionals="4" methods="6" coveredmethods="5" elements="23" coveredelements="21" complexity="0" loc="13" ncloc="13" packages="1" files="3" classes="3"/>
+<coverage generated="1655238228973" clover="3.2.0">
+  <project timestamp="1655238228973" name="All files">
+    <metrics statements="16" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="6" elements="27" coveredelements="25" complexity="0" loc="16" ncloc="16" packages="1" files="4" classes="4"/>
     <file name="CapitalizeFirstLetter.js" path="C:\Users\Basir Ahmad\Testing-practice\CapitalizeFirstLetter.js">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
@@ -23,6 +23,12 @@
       <line num="4" count="1" type="stmt"/>
       <line num="5" count="1" type="stmt"/>
       <line num="7" count="1" type="stmt"/>
+    </file>
+    <file name="reverseString.js" path="C:\Users\Basir Ahmad\Testing-practice\reverseString.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
